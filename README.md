@@ -31,6 +31,7 @@ Options
   --devtools, -t  Run Chrome in windowed mode with the devtools open.
   --version       Prints the version.
   --help          Prints this message.
+  --updates, -u   Number of component updates to perform (default: 0)
 
 Examples
   $ react-benchmark benchmark.js
